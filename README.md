@@ -15,5 +15,3 @@ The objective of this Netflix project is to perform a comprehensive analysis of 
 ![Screenshot 2024-10-19 190947](https://github.com/user-attachments/assets/0475d676-a670-4916-8244-fe105f976075)
 
 
-
-
